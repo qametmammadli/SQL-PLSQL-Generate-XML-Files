@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+<ROWSET>
+  <department id="10">
+    <department_name>Administration</department_name>
+    <employees>
+      <employee id="200">
+        <first_name>Jennifer</first_name>
+        <last_name>Whalen</last_name>
+        <salary>4400</salary>
+        <hire_date>1987-09-17</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="20">
+    <department_name>Marketing</department_name>
+    <employees>
+      <employee id="201">
+        <first_name>Michael</first_name>
+        <last_name>Hartstein</last_name>
+        <salary>13000</salary>
+        <hire_date>1996-02-17</hire_date>
+      </employee>
+      <employee id="202">
+        <first_name>Pat</first_name>
+        <last_name>Fay</last_name>
+        <salary>6000</salary>
+        <hire_date>1997-08-17</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="30">
+    <department_name>Purchasing</department_name>
+    <employees>
+      <employee id="114">
+        <first_name>Den</first_name>
+        <last_name>Raphaely</last_name>
+        <salary>11000</salary>
+        <hire_date>1994-12-07</hire_date>
+      </employee>
+      <employee id="115">
+        <first_name>Alexander</first_name>
+        <last_name>Khoo</last_name>
+        <salary>3100</salary>
+        <hire_date>1995-05-18</hire_date>
+      </employee>
+      <employee id="116">
+        <first_name>Shelli</first_name>
+        <last_name>Baida</last_name>
+        <salary>2900</salary>
+        <hire_date>1997-12-24</hire_date>
+      </employee>
+      <employee id="117">
+        <first_name>Sigal</first_name>
+        <last_name>Tobias</last_name>
+        <salary>2800</salary>
+        <hire_date>1997-07-24</hire_date>
+      </employee>
+      <employee id="118">
+        <first_name>Guy</first_name>
+        <last_name>Himuro</last_name>
+        <salary>2600</salary>
+        <hire_date>1998-11-15</hire_date>
+      </employee>
+      <employee id="119">
+        <first_name>Karen</first_name>
+        <last_name>Colmenares</last_name>
+        <salary>2500</salary>
+        <hire_date>1999-08-10</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="40">
+    <department_name>Human Resources</department_name>
+    <employees>
+      <employee id="203">
+        <first_name>Susan</first_name>
+        <last_name>Mavris</last_name>
+        <salary>6500</salary>
+        <hire_date>1994-06-07</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="50">
+    <department_name>Shipping</department_name>
+    <employees>
+      <employee id="120">
+        <first_name>Matthew</first_name>
+        <last_name>Weiss</last_name>
+        <salary>8000</salary>
+        <hire_date>1996-07-18</hire_date>
+      </employee>
+      <employee id="121">
+        <first_name>Adam</first_name>
+        <last_name>Fripp</last_name>
+        <salary>8200</salary>
+        <hire_date>1997-04-10</hire_date>
+      </employee>
+      <employee id="122">
+        <first_name>Payam</first_name>
+        <last_name>Kaufling</last_name>
+        <salary>7900</salary>
+        <hire_date>1995-05-01</hire_date>
+      </employee>
+      <employee id="123">
+        <first_name>Shanta</first_name>
+        <last_name>Vollman</last_name>
+        <salary>6500</salary>
+        <hire_date>1997-10-10</hire_date>
+      </employee>
+      <employee id="124">
+        <first_name>Kevin</first_name>
+        <last_name>Mourgos</last_name>
+        <salary>5800</salary>
+        <hire_date>1999-11-16</hire_date>
+      </employee>
+      <employee id="125">
+        <first_name>Julia</first_name>
+        <last_name>Nayer</last_name>
+        <salary>3200</salary>
+        <hire_date>1997-07-16</hire_date>
+      </employee>
+      <employee id="126">
+        <first_name>Irene</first_name>
+        <last_name>Mikkilineni</last_name>
+        <salary>2700</salary>
+        <hire_date>1998-09-28</hire_date>
+      </employee>
+      <employee id="127">
+        <first_name>James</first_name>
+        <last_name>Landry</last_name>
+        <salary>2400</salary>
+        <hire_date>1999-01-14</hire_date>
+      </employee>
+      <employee id="128">
+        <first_name>Steven</first_name>
+        <last_name>Markle</last_name>
+        <salary>2200</salary>
+        <hire_date>2000-03-08</hire_date>
+      </employee>
+      <employee id="129">
+        <first_name>Laura</first_name>
+        <last_name>Bissot</last_name>
+        <salary>3300</salary>
+        <hire_date>1997-08-20</hire_date>
+      </employee>
+      <employee id="130">
+        <first_name>Mozhe</first_name>
+        <last_name>Atkinson</last_name>
+        <salary>2800</salary>
+        <hire_date>1997-10-30</hire_date>
+      </employee>
+      <employee id="131">
+        <first_name>James</first_name>
+        <last_name>Marlow</last_name>
+        <salary>2500</salary>
+        <hire_date>1997-02-16</hire_date>
+      </employee>
+      <employee id="132">
+        <first_name>TJ</first_name>
+        <last_name>Olson</last_name>
+        <salary>2100</salary>
+        <hire_date>1999-04-10</hire_date>
+      </employee>
+      <employee id="133">
+        <first_name>Jason</first_name>
+        <last_name>Mallin</last_name>
+        <salary>3300</salary>
+        <hire_date>1996-06-14</hire_date>
+      </employee>
+      <employee id="134">
+        <first_name>Michael</first_name>
+        <last_name>Rogers</last_name>
+        <salary>2900</salary>
+        <hire_date>1998-08-26</hire_date>
+      </employee>
+      <employee id="135">
+        <first_name>Ki</first_name>
+        <last_name>Gee</last_name>
+        <salary>2400</salary>
+        <hire_date>1999-12-12</hire_date>
+      </employee>
+      <employee id="136">
+        <first_name>Hazel</first_name>
+        <last_name>Philtanker</last_name>
+        <salary>2200</salary>
+        <hire_date>2000-02-06</hire_date>
+      </employee>
+      <employee id="137">
+        <first_name>Renske</first_name>
+        <last_name>Ladwig</last_name>
+        <salary>3600</salary>
+        <hire_date>1995-07-14</hire_date>
+      </employee>
+      <employee id="138">
+        <first_name>Stephen</first_name>
+        <last_name>Stiles</last_name>
+        <salary>3200</salary>
+        <hire_date>1997-10-26</hire_date>
+      </employee>
+      <employee id="139">
+        <first_name>John</first_name>
+        <last_name>Seo</last_name>
+        <salary>2700</salary>
+        <hire_date>1998-02-12</hire_date>
+      </employee>
+      <employee id="140">
+        <first_name>Joshua</first_name>
+        <last_name>Patel</last_name>
+        <salary>2500</salary>
+        <hire_date>1998-04-06</hire_date>
+      </employee>
+      <employee id="141">
+        <first_name>Trenna</first_name>
+        <last_name>Rajs</last_name>
+        <salary>3500</salary>
+        <hire_date>1995-10-17</hire_date>
+      </employee>
+      <employee id="142">
+        <first_name>Curtis</first_name>
+        <last_name>Davies</last_name>
+        <salary>3100</salary>
+        <hire_date>1997-01-29</hire_date>
+      </employee>
+      <employee id="143">
+        <first_name>Randall</first_name>
+        <last_name>Matos</last_name>
+        <salary>2600</salary>
+        <hire_date>1998-03-15</hire_date>
+      </employee>
+      <employee id="144">
+        <first_name>Peter</first_name>
+        <last_name>Vargas</last_name>
+        <salary>2500</salary>
+        <hire_date>1998-07-09</hire_date>
+      </employee>
+      <employee id="180">
+        <first_name>Winston</first_name>
+        <last_name>Taylor</last_name>
+        <salary>3200</salary>
+        <hire_date>1998-01-24</hire_date>
+      </employee>
+      <employee id="181">
+        <first_name>Jean</first_name>
+        <last_name>Fleaur</last_name>
+        <salary>3100</salary>
+        <hire_date>1998-02-23</hire_date>
+      </employee>
+      <employee id="182">
+        <first_name>Martha</first_name>
+        <last_name>Sullivan</last_name>
+        <salary>2500</salary>
+        <hire_date>1999-06-21</hire_date>
+      </employee>
+      <employee id="183">
+        <first_name>Girard</first_name>
+        <last_name>Geoni</last_name>
+        <salary>2800</salary>
+        <hire_date>2000-02-03</hire_date>
+      </employee>
+      <employee id="184">
+        <first_name>Nandita</first_name>
+        <last_name>Sarchand</last_name>
+        <salary>4200</salary>
+        <hire_date>1996-01-27</hire_date>
+      </employee>
+      <employee id="185">
+        <first_name>Alexis</first_name>
+        <last_name>Bull</last_name>
+        <salary>4100</salary>
+        <hire_date>1997-02-20</hire_date>
+      </employee>
+      <employee id="186">
+        <first_name>Julia</first_name>
+        <last_name>Dellinger</last_name>
+        <salary>3400</salary>
+        <hire_date>1998-06-24</hire_date>
+      </employee>
+      <employee id="187">
+        <first_name>Anthony</first_name>
+        <last_name>Cabrio</last_name>
+        <salary>3000</salary>
+        <hire_date>1999-02-07</hire_date>
+      </employee>
+      <employee id="188">
+        <first_name>Kelly</first_name>
+        <last_name>Chung</last_name>
+        <salary>3800</salary>
+        <hire_date>1997-06-14</hire_date>
+      </employee>
+      <employee id="189">
+        <first_name>Jennifer</first_name>
+        <last_name>Dilly</last_name>
+        <salary>3600</salary>
+        <hire_date>1997-08-13</hire_date>
+      </employee>
+      <employee id="190">
+        <first_name>Timothy</first_name>
+        <last_name>Gates</last_name>
+        <salary>2900</salary>
+        <hire_date>1998-07-11</hire_date>
+      </employee>
+      <employee id="191">
+        <first_name>Randall</first_name>
+        <last_name>Perkins</last_name>
+        <salary>2500</salary>
+        <hire_date>1999-12-19</hire_date>
+      </employee>
+      <employee id="192">
+        <first_name>Sarah</first_name>
+        <last_name>Bell</last_name>
+        <salary>4000</salary>
+        <hire_date>1996-02-04</hire_date>
+      </employee>
+      <employee id="193">
+        <first_name>Britney</first_name>
+        <last_name>Everett</last_name>
+        <salary>3900</salary>
+        <hire_date>1997-03-03</hire_date>
+      </employee>
+      <employee id="194">
+        <first_name>Samuel</first_name>
+        <last_name>McCain</last_name>
+        <salary>3200</salary>
+        <hire_date>1998-07-01</hire_date>
+      </employee>
+      <employee id="195">
+        <first_name>Vance</first_name>
+        <last_name>Jones</last_name>
+        <salary>2800</salary>
+        <hire_date>1999-03-17</hire_date>
+      </employee>
+      <employee id="196">
+        <first_name>Alana</first_name>
+        <last_name>Walsh</last_name>
+        <salary>3100</salary>
+        <hire_date>1998-04-24</hire_date>
+      </employee>
+      <employee id="197">
+        <first_name>Kevin</first_name>
+        <last_name>Feeney</last_name>
+        <salary>3000</salary>
+        <hire_date>1998-05-23</hire_date>
+      </employee>
+      <employee id="198">
+        <first_name>Donald</first_name>
+        <last_name>OConnell</last_name>
+        <salary>2600</salary>
+        <hire_date>1999-06-21</hire_date>
+      </employee>
+      <employee id="199">
+        <first_name>Douglas</first_name>
+        <last_name>Grant</last_name>
+        <salary>2600</salary>
+        <hire_date>2000-01-13</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="60">
+    <department_name>IT</department_name>
+    <employees>
+      <employee id="103">
+        <first_name>Alexander</first_name>
+        <last_name>Hunold</last_name>
+        <salary>9000</salary>
+        <hire_date>1990-01-03</hire_date>
+      </employee>
+      <employee id="104">
+        <first_name>Bruce</first_name>
+        <last_name>Ernst</last_name>
+        <salary>6000</salary>
+        <hire_date>1991-05-21</hire_date>
+      </employee>
+      <employee id="105">
+        <first_name>David</first_name>
+        <last_name>Austin</last_name>
+        <salary>4800</salary>
+        <hire_date>1997-06-25</hire_date>
+      </employee>
+      <employee id="106">
+        <first_name>Valli</first_name>
+        <last_name>Pataballa</last_name>
+        <salary>4800</salary>
+        <hire_date>1998-02-05</hire_date>
+      </employee>
+      <employee id="107">
+        <first_name>Diana</first_name>
+        <last_name>Lorentz</last_name>
+        <salary>4200</salary>
+        <hire_date>1999-02-07</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="70">
+    <department_name>Public Relations</department_name>
+    <employees>
+      <employee id="204">
+        <first_name>Hermann</first_name>
+        <last_name>Baer</last_name>
+        <salary>10000</salary>
+        <hire_date>1994-06-07</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="80">
+    <department_name>Sales</department_name>
+    <employees>
+      <employee id="145">
+        <first_name>John</first_name>
+        <last_name>Russell</last_name>
+        <salary>14000</salary>
+        <hire_date>1996-10-01</hire_date>
+      </employee>
+      <employee id="146">
+        <first_name>Karen</first_name>
+        <last_name>Partners</last_name>
+        <salary>13500</salary>
+        <hire_date>1997-01-05</hire_date>
+      </employee>
+      <employee id="147">
+        <first_name>Alberto</first_name>
+        <last_name>Errazuriz</last_name>
+        <salary>12000</salary>
+        <hire_date>1997-03-10</hire_date>
+      </employee>
+      <employee id="148">
+        <first_name>Gerald</first_name>
+        <last_name>Cambrault</last_name>
+        <salary>11000</salary>
+        <hire_date>1999-10-15</hire_date>
+      </employee>
+      <employee id="149">
+        <first_name>Eleni</first_name>
+        <last_name>Zlotkey</last_name>
+        <salary>10500</salary>
+        <hire_date>2000-01-29</hire_date>
+      </employee>
+      <employee id="150">
+        <first_name>Peter</first_name>
+        <last_name>Tucker</last_name>
+        <salary>10000</salary>
+        <hire_date>1997-01-30</hire_date>
+      </employee>
+      <employee id="151">
+        <first_name>David</first_name>
+        <last_name>Bernstein</last_name>
+        <salary>9500</salary>
+        <hire_date>1997-03-24</hire_date>
+      </employee>
+      <employee id="152">
+        <first_name>Peter</first_name>
+        <last_name>Hall</last_name>
+        <salary>9000</salary>
+        <hire_date>1997-08-20</hire_date>
+      </employee>
+      <employee id="153">
+        <first_name>Christopher</first_name>
+        <last_name>Olsen</last_name>
+        <salary>8000</salary>
+        <hire_date>1998-03-30</hire_date>
+      </employee>
+      <employee id="154">
+        <first_name>Nanette</first_name>
+        <last_name>Cambrault</last_name>
+        <salary>7500</salary>
+        <hire_date>1998-12-09</hire_date>
+      </employee>
+      <employee id="155">
+        <first_name>Oliver</first_name>
+        <last_name>Tuvault</last_name>
+        <salary>7000</salary>
+        <hire_date>1999-11-23</hire_date>
+      </employee>
+      <employee id="156">
+        <first_name>Janette</first_name>
+        <last_name>King</last_name>
+        <salary>10000</salary>
+        <hire_date>1996-01-30</hire_date>
+      </employee>
+      <employee id="157">
+        <first_name>Patrick</first_name>
+        <last_name>Sully</last_name>
+        <salary>9500</salary>
+        <hire_date>1996-03-04</hire_date>
+      </employee>
+      <employee id="158">
+        <first_name>Allan</first_name>
+        <last_name>McEwen</last_name>
+        <salary>9000</salary>
+        <hire_date>1996-08-01</hire_date>
+      </employee>
+      <employee id="159">
+        <first_name>Lindsey</first_name>
+        <last_name>Smith</last_name>
+        <salary>8000</salary>
+        <hire_date>1997-03-10</hire_date>
+      </employee>
+      <employee id="160">
+        <first_name>Louise</first_name>
+        <last_name>Doran</last_name>
+        <salary>7500</salary>
+        <hire_date>1997-12-15</hire_date>
+      </employee>
+      <employee id="161">
+        <first_name>Sarath</first_name>
+        <last_name>Sewall</last_name>
+        <salary>7000</salary>
+        <hire_date>1998-11-03</hire_date>
+      </employee>
+      <employee id="162">
+        <first_name>Clara</first_name>
+        <last_name>Vishney</last_name>
+        <salary>10500</salary>
+        <hire_date>1997-11-11</hire_date>
+      </employee>
+      <employee id="163">
+        <first_name>Danielle</first_name>
+        <last_name>Greene</last_name>
+        <salary>9500</salary>
+        <hire_date>1999-03-19</hire_date>
+      </employee>
+      <employee id="164">
+        <first_name>Mattea</first_name>
+        <last_name>Marvins</last_name>
+        <salary>7200</salary>
+        <hire_date>2000-01-24</hire_date>
+      </employee>
+      <employee id="165">
+        <first_name>David</first_name>
+        <last_name>Lee</last_name>
+        <salary>6800</salary>
+        <hire_date>2000-02-23</hire_date>
+      </employee>
+      <employee id="166">
+        <first_name>Sundar</first_name>
+        <last_name>Ande</last_name>
+        <salary>6400</salary>
+        <hire_date>2000-03-24</hire_date>
+      </employee>
+      <employee id="167">
+        <first_name>Amit</first_name>
+        <last_name>Banda</last_name>
+        <salary>6200</salary>
+        <hire_date>2000-04-21</hire_date>
+      </employee>
+      <employee id="168">
+        <first_name>Lisa</first_name>
+        <last_name>Ozer</last_name>
+        <salary>11500</salary>
+        <hire_date>1997-03-11</hire_date>
+      </employee>
+      <employee id="169">
+        <first_name>Harrison</first_name>
+        <last_name>Bloom</last_name>
+        <salary>10000</salary>
+        <hire_date>1998-03-23</hire_date>
+      </employee>
+      <employee id="170">
+        <first_name>Tayler</first_name>
+        <last_name>Fox</last_name>
+        <salary>9600</salary>
+        <hire_date>1998-01-24</hire_date>
+      </employee>
+      <employee id="171">
+        <first_name>William</first_name>
+        <last_name>Smith</last_name>
+        <salary>7400</salary>
+        <hire_date>1999-02-23</hire_date>
+      </employee>
+      <employee id="172">
+        <first_name>Elizabeth</first_name>
+        <last_name>Bates</last_name>
+        <salary>7300</salary>
+        <hire_date>1999-03-24</hire_date>
+      </employee>
+      <employee id="173">
+        <first_name>Sundita</first_name>
+        <last_name>Kumar</last_name>
+        <salary>6100</salary>
+        <hire_date>2000-04-21</hire_date>
+      </employee>
+      <employee id="174">
+        <first_name>Ellen</first_name>
+        <last_name>Abel</last_name>
+        <salary>11000</salary>
+        <hire_date>1996-05-11</hire_date>
+      </employee>
+      <employee id="175">
+        <first_name>Alyssa</first_name>
+        <last_name>Hutton</last_name>
+        <salary>8800</salary>
+        <hire_date>1997-03-19</hire_date>
+      </employee>
+      <employee id="176">
+        <first_name>Jonathon</first_name>
+        <last_name>Taylor</last_name>
+        <salary>8600</salary>
+        <hire_date>1998-03-24</hire_date>
+      </employee>
+      <employee id="177">
+        <first_name>Jack</first_name>
+        <last_name>Livingston</last_name>
+        <salary>8400</salary>
+        <hire_date>1998-04-23</hire_date>
+      </employee>
+      <employee id="179">
+        <first_name>Charles</first_name>
+        <last_name>Johnson</last_name>
+        <salary>6200</salary>
+        <hire_date>2000-01-04</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="90">
+    <department_name>Executive</department_name>
+    <employees>
+      <employee id="100">
+        <first_name>Steven</first_name>
+        <last_name>King</last_name>
+        <salary>24000</salary>
+        <hire_date>1987-06-17</hire_date>
+      </employee>
+      <employee id="101">
+        <first_name>Neena</first_name>
+        <last_name>Kochhar</last_name>
+        <salary>17000</salary>
+        <hire_date>1989-09-21</hire_date>
+      </employee>
+      <employee id="102">
+        <first_name>Lex</first_name>
+        <last_name>De Haan</last_name>
+        <salary>17000</salary>
+        <hire_date>1993-01-13</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="100">
+    <department_name>Finance</department_name>
+    <employees>
+      <employee id="108">
+        <first_name>Nancy</first_name>
+        <last_name>Greenberg</last_name>
+        <salary>12000</salary>
+        <hire_date>1994-08-17</hire_date>
+      </employee>
+      <employee id="109">
+        <first_name>Daniel</first_name>
+        <last_name>Faviet</last_name>
+        <salary>9000</salary>
+        <hire_date>1994-08-16</hire_date>
+      </employee>
+      <employee id="110">
+        <first_name>John</first_name>
+        <last_name>Chen</last_name>
+        <salary>8200</salary>
+        <hire_date>1997-09-28</hire_date>
+      </employee>
+      <employee id="111">
+        <first_name>Ismael</first_name>
+        <last_name>Sciarra</last_name>
+        <salary>7700</salary>
+        <hire_date>1997-09-30</hire_date>
+      </employee>
+      <employee id="112">
+        <first_name>Jose Manuel</first_name>
+        <last_name>Urman</last_name>
+        <salary>7800</salary>
+        <hire_date>1998-03-07</hire_date>
+      </employee>
+      <employee id="113">
+        <first_name>Luis</first_name>
+        <last_name>Popp</last_name>
+        <salary>6900</salary>
+        <hire_date>1999-12-07</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="110">
+    <department_name>Accounting</department_name>
+    <employees>
+      <employee id="205">
+        <first_name>Shelley</first_name>
+        <last_name>Higgins</last_name>
+        <salary>12000</salary>
+        <hire_date>1994-06-07</hire_date>
+      </employee>
+      <employee id="206">
+        <first_name>William</first_name>
+        <last_name>Gietz</last_name>
+        <salary>8300</salary>
+        <hire_date>1994-06-07</hire_date>
+      </employee>
+    </employees>
+  </department>
+  <department id="120">
+    <department_name>Treasury</department_name>
+    <employees/>
+  </department>
+  <department id="130">
+    <department_name>Corporate Tax</department_name>
+    <employees/>
+  </department>
+  <department id="140">
+    <department_name>Control And Credit</department_name>
+    <employees/>
+  </department>
+  <department id="150">
+    <department_name>Shareholder Services</department_name>
+    <employees/>
+  </department>
+  <department id="160">
+    <department_name>Benefits</department_name>
+    <employees/>
+  </department>
+  <department id="170">
+    <department_name>Manufacturing</department_name>
+    <employees/>
+  </department>
+  <department id="180">
+    <department_name>Construction</department_name>
+    <employees/>
+  </department>
+  <department id="190">
+    <department_name>Contracting</department_name>
+    <employees/>
+  </department>
+  <department id="200">
+    <department_name>Operations</department_name>
+    <employees/>
+  </department>
+  <department id="210">
+    <department_name>IT Support</department_name>
+    <employees/>
+  </department>
+  <department id="220">
+    <department_name>NOC</department_name>
+    <employees/>
+  </department>
+  <department id="230">
+    <department_name>IT Helpdesk</department_name>
+    <employees/>
+  </department>
+  <department id="240">
+    <department_name>Government Sales</department_name>
+    <employees/>
+  </department>
+  <department id="250">
+    <department_name>Retail Sales</department_name>
+    <employees/>
+  </department>
+  <department id="260">
+    <department_name>Recruiting</department_name>
+    <employees/>
+  </department>
+  <department id="270">
+    <department_name>Payroll</department_name>
+    <employees/>
+  </department>
+</ROWSET>
+
